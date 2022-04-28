@@ -1,0 +1,1 @@
+pthon is scripting language
